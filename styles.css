@@ -22,7 +22,7 @@ body {
     font-size: 1.1rem;
     color: var(--text-color);
     transition: all .4s ease-in-out;
-    animation: changeBgImg 10s infinite;
+    animation: changeBgImg 16s infinite;
  }
  
  .navbar {
